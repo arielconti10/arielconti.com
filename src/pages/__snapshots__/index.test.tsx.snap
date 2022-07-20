@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<HomePage /> should match the HomePage component snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="flex css-1du3sct"
+  >
+    <a
+      class="text css-a0xwrt"
+      href="https://github.com/arielconti10"
+      rel="norefer noopener"
+      target="_blank"
+    >
+      @arielconti10
+    </a>
+  </div>
+  <main>
+    <div
+      class="flex css-3z75l1"
+    >
+      <div
+        class="box css-0"
+      >
+        <h1
+          class="text css-min50y"
+        >
+          Ariel Conti
+        </h1>
+        <p
+          class="text css-kbn7if"
+        >
+          Front-end engineer who loves UX, Performance and Design.
+        </p>
+        <p
+          class="text css-kbn7if"
+        >
+          Brazilian based in Lisboa, Portugal.
+        </p>
+      </div>
+    </div>
+  </main>
+  <div
+    class="flex css-dofn0p"
+  >
+    Made with ❤️ by
+    <a
+      class="text css-a0xwrt"
+      href="https://github.com/arielconti10"
+      rel="norefer noopener"
+      target="_blank"
+    >
+      @arielconti10
+    </a>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,15 @@
+## 🚀  Technologies
+
+-  [NextJS](https://nextjs.org/)
+-  [TypeScript](https://www.typescriptlang.org/)
+-  [chakra-system](chakra-ui.com/)
+-  [Jest](https://jestjs.io/)
+-  [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+-  [Storybook](https://storybook.js.org/)
+-  [ESLint](https://eslint.org/)
+-  [Prettier](https://prettier.io/)
+-  [Plop Generator](https://plopjs.com/)
+-  [Husky](https://github.com/typicode/husky)
+-  [Next SEO](https://github.com/garmeeh/next-seo)
+-  [Next PWA](https://github.com/shadowwalker/next-pwa)
+-  [Next Sitemap](https://github.com/iamvishnusankar/next-sitemap)
